@@ -1,16 +1,16 @@
 # rspec-vim
 
 ## Usage
-In test case you want run.
+In test case you want to run.
 
 ```vim
 :RspecCurrentLine
 ```
 
-In test file you want run.
+In test file you want to run.
 
 ```vim
-:RspecCurrentLine
+:RspecCurrentFile
 ```
 
 ## Settings
